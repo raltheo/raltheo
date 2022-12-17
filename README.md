@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <strong>Hello, I'm Théo,</strong> I am a junior web developer, passionate about security, I like to learn new things and work on projects!
+  <strong>Hello, I'm Théo,</strong> I'm a french junior web developer, passionate about security, I like to learn new things and work on projects!
 </p>
 <h3>Various techs I use</h3>
 <p>
