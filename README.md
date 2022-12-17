@@ -24,4 +24,4 @@
   <img alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
 </p>
 
-<h3>See my [RootMe](https://www.root-me.org/theo-380630?lang=fr)- _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_</h3>
+<h3>[See my RootMe Profile](https://www.root-me.org/theo-380630?lang=fr)</h3>
