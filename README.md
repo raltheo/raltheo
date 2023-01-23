@@ -30,4 +30,8 @@
   <img alt="EXPO" src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 </p>
 
+
+<h3>Diplôme OC</h3>
+<img alt="Diplome" src="https://raw.githubusercontent.com/cobaltium360/Dipl-me/main/diplome.png" />
+
 [See my RootMe Profile](https://www.root-me.org/theo-380630?lang=fr)
