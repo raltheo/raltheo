@@ -38,9 +38,9 @@
 <h2>Github stats</h2>
 
 <div>
-  <img alt="stats_git" src="https://github-readme-stats.vercel.app/api?username=cobaltium360&theme=blue-green" />
   <img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltium360&theme=blue-green" />
-</div>
+  <img alt="stats_git" src="https://github-readme-stats.vercel.app/api?username=cobaltium360&theme=blue-green" />
+  </div>
 
 
 
