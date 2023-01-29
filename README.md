@@ -36,12 +36,7 @@
 [See my RootMe Profile](https://www.root-me.org/theo-380630?lang=fr)
 
 <h2>Github stats</h2>
-<style>
-div {
-  display: flex;
-  justify-content: space-between;
-}
-</style>
+
 <div>
   <img alt="stats_git" src="https://github-readme-stats.vercel.app/api?username=cobaltium360&theme=blue-green" />
   <img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltium360&theme=blue-green" />
