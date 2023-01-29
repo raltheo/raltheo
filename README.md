@@ -31,8 +31,13 @@
   <img alt="CLOUDFLARE" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   
 </p>
-
+<h2>Cyber Security learning</h2>
 [See my RootMe Profile](https://www.root-me.org/theo-380630?lang=fr)
+
+<h2>Github stats</h2>
+<img alt="stats_git" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltium360&theme=blue-green" />
+<img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltium360&theme=blue-green" />
+
 
 <h3>Diplôme OC</h3>
 <img alt="Diplome" src="https://raw.githubusercontent.com/cobaltium360/Dipl-me/main/diplome.png" />
