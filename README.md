@@ -34,8 +34,8 @@
 <h2>Cyber Security learning</h2>
 
 [See my RootMe Profile](https://www.root-me.org/raltheo)<br>
-<img alt="rootmebadge" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=cobaltium360&theme=blue-green](https://i.ibb.co/sJqnq1L/badge.png)" />
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sJqnq1L/badge.png" alt="badge" border="0" /></a>
+<br>
 <h2>Github stats</h2>
 
 <div>
