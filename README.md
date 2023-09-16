@@ -34,7 +34,7 @@
 <h2>Cyber Security learning</h2>
 
 [See my RootMe Profile](https://www.root-me.org/raltheo)<br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/sJqnq1L/badge.png" alt="badge" border="0" /></a>
+<a href="https://imgbb.com/"><img src="http://51.178.83.147:8888/raltheo.png" alt="badge" border="0" /></a>
 <br>
 <h2>Github stats</h2>
 
