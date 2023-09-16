@@ -34,8 +34,7 @@
 <h2>Cyber Security learning</h2>
 
 [See my RootMe Profile](https://www.root-me.org/raltheo)
-
-<br><br>
+<br>
 <a href="https://imgbb.com/"><img src="http://51.178.83.147:8888/raltheo.png" alt="badge" border="0" /></a>
 <p style="font-size:10px">update each 30 min</p>
 <br>
