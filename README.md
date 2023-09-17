@@ -36,8 +36,7 @@
 [See my RootMe Profile](https://www.root-me.org/raltheo)
 
 <br>
-<a href="https://imgbb.com/"><img src="http://51.178.83.147:8888/raltheo.png" alt="badge" border="0" /></a>
-<p style="font-size:10px">update each 30 min</p>
+<a href="https://www.root-me.org/raltheo"><img src="http://51.178.83.147:8888/raltheo.png" alt="badge" border="0" /></a>
 <br>
 <h2>Github stats</h2>
 
