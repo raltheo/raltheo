@@ -51,4 +51,3 @@
 <img alt="Diplome" src="https://raw.githubusercontent.com/cobaltium360/Dipl-me/main/diplome.png" />
 
 
-<p>contact : cobaltium360@gmail.com</p>
