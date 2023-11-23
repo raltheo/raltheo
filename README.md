@@ -31,12 +31,11 @@
 
 <div>
   <img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raltheo&theme=blue-green" />
-  <img alt="stats_git" src="https://github-readme-stats.vercel.app/api?username=raltheo&theme=blue-green" />
-  </div>
+</div>
 
 
 
 <h3>Diplôme OC</h3>
-<img alt="Diplome" src="https://raw.githubusercontent.com/cobaltium360/Dipl-me/main/diplome.png" />
+<img alt="Diplome" src="https://raw.githubusercontent.com/cobaltium360/Dipl-me/main/diplome.png" style="width: 200px; height":150px;/>
 
 
