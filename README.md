@@ -30,7 +30,7 @@
 <h2>Github stats</h2>
 
 <div>
-  <img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raltheo&theme=blue-green" style="width: 200px" />
+  <img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raltheo&theme=blue-green" />
 </div>
 
 
