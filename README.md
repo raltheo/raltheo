@@ -32,7 +32,8 @@
 <a href="https://huntr.com/users/raltheo">See my Huntr Profile</a>
 
 <br>
-CVE-2023-5833<br>
+
+CVE-2023-5833 <br>
 <a href="https://huntr.com/bounties/00ec6847-125b-43e9-9658-d3cace1751d6">Admin account takeover</a>
 
 <h2>Github stats</h2>
