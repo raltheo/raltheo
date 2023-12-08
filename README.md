@@ -28,13 +28,11 @@
 <a href="https://www.root-me.org/raltheo"><img src="http://51.178.83.147:8888/raltheo.png" alt="badge" border="0" /></a>
 <br>
 
-<h2>CVE</h2>
-<a href="https://huntr.com/users/raltheo">See my Huntr Profile</a>
+## CVE
+[See my Huntr Profile](https://huntr.com/users/raltheo)
 
-<br>
-
-CVE-2023-5833 <br>
-<a href="https://huntr.com/bounties/00ec6847-125b-43e9-9658-d3cace1751d6">Admin account takeover</a>
+CVE-2023-5833
+[Admin account takeover](https://huntr.com/bounties/00ec6847-125b-43e9-9658-d3cace1751d6)
 
 <h2>Github stats</h2>
 
