@@ -38,6 +38,8 @@ CVE-2023-5833
   <img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raltheo&theme=blue-green" />
 </div>
 
+<img src='http://51.178.83.147:9999/counter.jpg'/>
+
 <h3>Diplôme OC</h3>
 <img alt="Diplome" src="https://raw.githubusercontent.com/cobaltium360/Dipl-me/main/diplome.png" style="width: 200px;"/>
 
