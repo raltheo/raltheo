@@ -22,7 +22,6 @@
 </p>
 <h2>Cyber Security learning</h2>
 
-<br>
 <h3>Root Me</h3>
 <a href="https://www.root-me.org/raltheo"><img src="http://51.178.83.147:8888/raltheo.png" alt="badge" border="0" /></a>
 <br>
