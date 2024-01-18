@@ -23,7 +23,7 @@
 <h2>Cyber Security learning</h2>
 
 <h3>Root Me</h3>
-<a href="https://www.root-me.org/raltheo"><img src="https://root-me-diff.vercel.app/rm-gh?nickname=raltheo"></a>
+<a href="https://www.root-me.org/raltheo"><img src="https://root-me-diff.vercel.app/rm-gh?nickname=raltheo&style=midnight&gstats=show"></a>
 <br>
 
 ## CVE
