@@ -32,11 +32,6 @@
 CVE-2023-5833
 [Admin account takeover](https://huntr.com/bounties/00ec6847-125b-43e9-9658-d3cace1751d6)
 
-<h2>Github stats</h2>
-
-<div>
-  <img alt="stats_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raltheo&theme=blue-green" />
-</div>
 
 
 <h3>Diplôme OC</h3>
