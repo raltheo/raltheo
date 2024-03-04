@@ -32,6 +32,11 @@
 CVE-2023-5833
 [Admin account takeover](https://huntr.com/bounties/00ec6847-125b-43e9-9658-d3cace1751d6)
 
+CVE-2024-0763
+[Arbitrary Folder Delete](https://huntr.com/bounties/25a2f487-5a9c-4c7f-a2d3-b0527db73ea5)
+
+CVE-2024-0795
+[Improper acces control / admin account takeover](https://huntr.com/bounties/f69e3307-7b44-4776-ac60-2990990723ec)
 
 
 <h3>Diplôme OC</h3>
